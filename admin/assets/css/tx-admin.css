@@ -1,0 +1,12 @@
+#elementor-deactivate-feedback-modal{
+    display: none;
+}
+#elementor-deactivate-feedback-modal.tx-modal.show{
+    display: block;
+}
+.dialog-type-lightbox .dialog-widget-content.tx-center{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+}
